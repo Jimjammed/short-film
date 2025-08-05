@@ -13,7 +13,8 @@ We focused on four core performance metrics:
 
 Each of these metrics serves as a proxy for public reception and commercial potential, allowing us to recommend data-backed strategies for entry into the market.
 
- Data Preparation and Genre Focus
+ Data Preparation and Genre Focus.
+ 
 To ensure high-quality insights:
 •	We cleaned the dataset by converting raw Box Office figures into usable numerical formats.
 •	Genres were simplified by extracting the primary genre from complex multi-genre entries.
@@ -21,7 +22,8 @@ To ensure high-quality insights:
 Key discovery:
 Genres such as Animation, Short, and Drama were the most prevalent among high-performing titles. These categories form a strategic foundation for initial studio content planning.
 
-Audience and Critic Agreement
+Audience and Critic Agreement:
+
 A notable insight was the strong correlation between IMDb Ratings and Audience Scores.
 This alignment indicates that:
 •	Audience and critical perception are closely matched.
@@ -30,7 +32,8 @@ This alignment indicates that:
 
 This reinforces the importance of creating content that satisfies both critics and general audiences.
 
-Visual Insights and Genre Trends
+Visual Insights and Genre Trends:
+
 We leveraged Tableau to create interactive visuals.
 Key findings:
 •	Animated films consistently performed well across ratings and revenue.
@@ -46,6 +49,7 @@ Using box plots and distribution visuals:
 •	This makes it an ideal choice for studios aiming for predictable results and positive reception in the early stages.
 
 Recommendations for the New Studio
+
 Based on our findings, we recommend:
 •	Start with Animated Short Films
 Emphasize emotional or humorous storytelling to attract broad audience appeal.
