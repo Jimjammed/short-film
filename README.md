@@ -9,7 +9,8 @@ We focused on four core performance metrics:
 •	 IMDb Rating
 •	 Tomatometer Score
 •	 Audience Score
-•	 Box Office Revenue
+•	 Box Office Revenue.
+
 Each of these metrics serves as a proxy for public reception and commercial potential, allowing us to recommend data-backed strategies for entry into the market.
 
  Data Preparation and Genre Focus
@@ -26,6 +27,7 @@ This alignment indicates that:
 •	Audience and critical perception are closely matched.
 •	These scores are reliable indicators of content quality.
 •	Films with high ratings in both metrics also tend to show better box office performance.
+
 This reinforces the importance of creating content that satisfies both critics and general audiences.
 
 Visual Insights and Genre Trends
@@ -33,10 +35,12 @@ We leveraged Tableau to create interactive visuals.
 Key findings:
 •	Animated films consistently performed well across ratings and revenue.
 •	Year-over-year trends show consistent success, making Animation a low-risk, high-reward entry point for new content producers.
+
 Explore our dashboard here:  https://public.tableau.com/views/shortfilmstudio/strategy_summary
 
 Comparative Genre Performance
 Using box plots and distribution visuals:
+
 •	We observed high variance in genres like Drama and Comedy — with occasional blockbusters but also frequent underperformers.
 •	Animation stood out as the most consistent and dependable genre.
 •	This makes it an ideal choice for studios aiming for predictable results and positive reception in the early stages.
